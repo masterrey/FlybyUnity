@@ -29,7 +29,7 @@ public class Airplane : MonoBehaviour {
     void Break() {
         if (Input.GetButton("Fire2")) {
             foreach (WheelCollider roda in rodas) {
-                roda.brakeTorque = 10000;
+                roda.brakeTorque = 100000;
                 roda.motorTorque = 0.0f;
             }
         } else {

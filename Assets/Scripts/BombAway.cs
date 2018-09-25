@@ -13,7 +13,7 @@ public class BombAway : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (Input.GetButtonDown("Jump")) {
+        if (Input.GetButtonDown("Jump2")) {
             Bomb.transform.parent = null;
             Bomb.GetComponent<Rigidbody>().isKinematic = false;
             Bomb.GetComponent<Rigidbody>().velocity = rdbair.velocity;
