@@ -13,6 +13,8 @@ public class Airplane : MonoBehaviour {
     Rigidbody rdb;
     AudioSource audmotor;
     public WheelCollider[] rodas;
+    float dragbrake;
+    public float fuel=1000;
 	// Use this for initialization
 	void Start () {
         rdb = GetComponent<Rigidbody>();
@@ -28,11 +30,14 @@ public class Airplane : MonoBehaviour {
     }
     void Break() {
         if (Input.GetButton("Fire2")) {
+            dragbrake = 0.2f;
             foreach (WheelCollider roda in rodas) {
                 roda.brakeTorque = 100000;
                 roda.motorTorque = 0.0f;
+                dragbrake = 0.5f;
             }
         } else {
+            dragbrake = 0;
             foreach (WheelCollider roda in rodas) {
                 roda.brakeTorque = 000;
                 roda.motorTorque = 0.00000001f;
@@ -41,15 +46,17 @@ public class Airplane : MonoBehaviour {
 
     }
 	void Update () {
-
-        propeller.transform.Rotate(0, 0, 185* Trotle, Space.Self);
-        audmotor.pitch = Trotle*2;
         if (Input.GetButton("Fire3")) {
             Trotle += 0.01f;
         }
         if (Input.GetButton("Fire1")) {
             Trotle -= 0.01f;
         }
+        if (fuel < 0) {
+            Trotle = 0;
+        }
+        propeller.transform.Rotate(0, 0, 185* Trotle, Space.Self);
+        audmotor.pitch = Trotle*2;
         Trotle = Mathf.Clamp(Trotle, 0.0f, 1);
         //transform.Rotate(myInputAxis());
         //transform.position += transform.forward*Time.deltaTime*80;
@@ -60,10 +67,9 @@ public class Airplane : MonoBehaviour {
         rdb.AddForce(transform.forward * MotorPower * Trotle);
         rdb.AddForce(transform.up * rdb.velocity.magnitude * WingLift);
         rdb.AddRelativeTorque(myInputAxis()* WingletForce);
-        rdb.drag = Trotle-0.1f;
+        rdb.drag = rdb.velocity.magnitude*0.005f + dragbrake;
         float angle = Vector3.Dot(Vector3.up, transform.right);
-        
         rdb.AddTorque(0,angle*-autoleme, 0);
-
+        fuel -= Trotle * Time.fixedDeltaTime;
     }
 }

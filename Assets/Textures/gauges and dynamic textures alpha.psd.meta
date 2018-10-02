@@ -1,0 +1,1002 @@
+fileFormatVersion: 2
+guid: 02e9b23378ecdd94fa6c27ae7a5f4aef
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gauges and dynamic textures alpha_0
+    21300002: gauges and dynamic textures alpha_1
+    21300004: gauges and dynamic textures alpha_2
+    21300006: gauges and dynamic textures alpha_3
+    21300008: gauges and dynamic textures alpha_4
+    21300010: gauges and dynamic textures alpha_5
+    21300012: gauges and dynamic textures alpha_6
+    21300014: gauges and dynamic textures alpha_7
+    21300016: gauges and dynamic textures alpha_8
+    21300018: gauges and dynamic textures alpha_9
+    21300020: gauges and dynamic textures alpha_10
+    21300022: gauges and dynamic textures alpha_11
+    21300024: gauges and dynamic textures alpha_12
+    21300026: gauges and dynamic textures alpha_13
+    21300028: gauges and dynamic textures alpha_14
+    21300030: gauges and dynamic textures alpha_15
+    21300032: gauges and dynamic textures alpha_16
+    21300034: gauges and dynamic textures alpha_17
+    21300036: gauges and dynamic textures alpha_18
+    21300038: gauges and dynamic textures alpha_19
+    21300040: gauges and dynamic textures alpha_20
+    21300042: gauges and dynamic textures alpha_21
+    21300044: gauges and dynamic textures alpha_22
+    21300046: gauges and dynamic textures alpha_23
+    21300048: gauges and dynamic textures alpha_24
+    21300050: gauges and dynamic textures alpha_25
+    21300052: gauges and dynamic textures alpha_26
+    21300054: gauges and dynamic textures alpha_27
+    21300056: gauges and dynamic textures alpha_28
+    21300058: gauges and dynamic textures alpha_29
+    21300060: gauges and dynamic textures alpha_30
+    21300062: gauges and dynamic textures alpha_31
+    21300064: gauges and dynamic textures alpha_32
+    21300066: gauges and dynamic textures alpha_33
+    21300068: gauges and dynamic textures alpha_34
+    21300070: gauges and dynamic textures alpha_35
+    21300072: gauges and dynamic textures alpha_36
+    21300074: gauges and dynamic textures alpha_37
+    21300076: gauges and dynamic textures alpha_38
+    21300078: gauges and dynamic textures alpha_39
+    21300080: gauges and dynamic textures alpha_40
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 30
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 10
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 395
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c6badda138196469d9ea808f245e9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 401
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb3e044ad9ec28478fcc0d6153ba881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 399
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2af478a9c2eb746834578bdf024725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 397
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339d727b79e9eb142ac1d871ada5c773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 276
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c9b6cbbc968a54d85d14d594d48f74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 276
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b366e98bd8207064fb0314b99e8be99f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 283
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a27faa3fa1cb0c4fa7f425d7beaf20f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 276
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f695e71f51fd0294592bf7ac81bf74de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 154
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a4dd9c3af8001488235cf6824451a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 155
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115c384c42e227c4481e00c35d29e34a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 192
+        width: 12
+        height: 91
+      alignment: 9
+      pivot: {x: 0.53034467, y: 0.09180727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd60ab6da9297e4498d1a3992292700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 260
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eee5ae59dfd174e94f4d4eae26efcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 211
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5acefda02879a46921830d553d0632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_13
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 228
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d32b8c326f1785419de18f065e1ff6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_14
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 210
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90938b196bdc0c24eb0849c9e8276e26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 184
+        width: 85
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f00c3e0efe80ca4698bb1e699be6077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 160
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333043999af173f4ab016b1c00513f62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_17
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 151
+        width: 16
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5572033, y: 0.307314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5196adb46bf5a2947bbcbba96fed60f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_18
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 139
+        width: 12
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5457611, y: 0.28483394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572f06c55f1ca244284b10274a9c2958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_19
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 137
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8322e0aa465e08b42805d843566a87cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_20
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 100
+        width: 8
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9025b22d2f908cc4bb1805c8c610348d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_21
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 100
+        width: 8
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2649bce287a48be4c8b372d81d2d08a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 163
+        width: 70
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3971bef324228d646b7ccd4862c00051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 164
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa270a559a1588a4084ed78623c64253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 145
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727449604b122b049bc29eb155a58dae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 146
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff235b86e2a6a144b88c24e169e3c10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 86
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ee7c47dd0e2a049a197163b7375571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_27
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 99
+        width: 9
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5203383, y: 0.067619585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f636ccbc017b3fb41841f59364862a17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 107
+        width: 181
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205494f980fa0a84988c61f9950f2d97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 124
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b495f09b9f3fc7a408f86c48a4d01c33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_30
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 98
+        width: 10
+        height: 35
+      alignment: 9
+      pivot: {x: 0.51830447, y: 0.118206784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33c3ab7167e189488c4deb636cc70ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_31
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 99
+        width: 5
+        height: 28
+      alignment: 9
+      pivot: {x: 0.56471556, y: 0.020451682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d0fdde57d8e414496d2211473d5a11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da768c970e8ba44498f7000fb8663c33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_33
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 98
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8b2c377fa58bd42b143b116062b190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd9da1af87139e4a9f885d11b98cffc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_35
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e598a1bb761f76d4eac90c2e8ca85012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_36
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3152d292b01aa294282bf4fc9105a696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_37
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 42
+        width: 10
+        height: 43
+      alignment: 9
+      pivot: {x: 0.468573, y: 0.35870653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de47e6f540750f41a2de6c8f90e26d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_38
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 40
+        width: 8
+        height: 54
+      alignment: 9
+      pivot: {x: 0.51454926, y: 0.30213526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebdb7689b620304fa36418e7fe39f50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_39
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 16
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786b2a185acc62c49a59aae6b1d34665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauges and dynamic textures alpha_40
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 28
+        width: 9
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e276578c7b4813a4193bc9fd406966a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 45ade4b6258de1c44a3533041a880f13
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
