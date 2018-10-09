@@ -1,40 +1,51 @@
 fileFormatVersion: 2
-guid: f34fedc9a597ba84dbc87ad2a019f04d
+guid: 25b1c46524e4f054f9228c02c1ae5c29
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: BarrelGuard_default2
     100002: Base_default4
     100004: Base_default6
-    100006: Gun_default3
-    100008: //RootNode
-    100010: Motor_default5
+    100006: Base_default6.001
+    100008: Camera
+    100010: Gun_default3
+    100012: Lamp
+    100014: Motor_default5
+    100016: //RootNode
     400000: BarrelGuard_default2
     400002: Base_default4
     400004: Base_default6
-    400006: Gun_default3
-    400008: //RootNode
-    400010: Motor_default5
-    2100000: BarrelGuard_default2Mat
-    2100002: Base_default4Mat
-    2100004: Base_default6Mat
-    2100006: Gun_default3Mat
-    2100008: Motor_default5Mat
+    400006: Base_default6.001
+    400008: Camera
+    400010: Gun_default3
+    400012: Lamp
+    400014: Motor_default5
+    400016: //RootNode
+    2000000: Camera
+    2100000: default6
+    2100002: default4
+    2100004: default5
+    2100006: default2
+    2100008: default3
     2300000: BarrelGuard_default2
     2300002: Base_default4
     2300004: Base_default6
-    2300006: Gun_default3
-    2300008: Motor_default5
+    2300006: Base_default6.001
+    2300008: Gun_default3
+    2300010: Motor_default5
     3300000: BarrelGuard_default2
     3300002: Base_default4
     3300004: Base_default6
-    3300006: Gun_default3
-    3300008: Motor_default5
-    4300000: BarrelGuard_default2
+    3300006: Base_default6.001
+    3300008: Gun_default3
+    3300010: Motor_default5
+    4300000: Base_default6.001
     4300002: Base_default4
     4300004: Base_default6
-    4300006: Gun_default3
-    4300008: Motor_default5
+    4300006: Motor_default5
+    4300008: BarrelGuard_default2
+    4300010: Gun_default3
+    10800000: Lamp
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
